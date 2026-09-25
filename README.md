@@ -49,5 +49,5 @@ Passionate about building scalable mobile experiences, clean system architecture
 
 ### 📬 Connect With Me
 
-- 💼 **LinkedIn**: [linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/zineb-bouakkiz-61732a286/)
+- 💼 **LinkedIn**: [linkedin.com/in/zineb-bouakkiz-61732a286](https://www.linkedin.com/in/zineb-bouakkiz-61732a286/)
 - 📧 **Email**: zinebbouakkiz458@gmail.com
